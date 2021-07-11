@@ -1,6 +1,6 @@
 
-### 안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다.
-#### Java를 주로 사용하며, Kotlin을 공부하고 있습니다. ☺️
+### ☺️안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다.☺️
+#### Java를 주로 사용하며, Kotlin을 공부하고 있습니다.
 #
 ### ✔️주로 사용하는
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
