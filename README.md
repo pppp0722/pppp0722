@@ -1,4 +1,4 @@
-<a href="www.naver.com"><img src="https://img.shields.io/badge/"Android"-A4C639?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="www.naver.com"><img src="https://img.shields.io/badge/"Android"-20c997?style=flat-square&logo=Android&logoColor=white"/></a>
 ### 안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다. :sunny:
 #### Java를 주로 사용하며, Kotlin을 공부하고 있습니다.
 #
