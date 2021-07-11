@@ -1,4 +1,5 @@
 
+
 ### ☺️안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다.☺️
 #### Java를 주로 사용하며, Kotlin을 공부하고 있습니다.
 #
@@ -14,7 +15,7 @@
 > 
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Java_Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 > 
-> <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 > 
 > <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 > 
