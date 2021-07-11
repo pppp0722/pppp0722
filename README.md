@@ -3,14 +3,22 @@
 #
 ### 주로 사용하는
 > Android
+> 
 > Java
+> 
 > Kotlin
 
 ### 사용해본 경험이 있는
 > React-Native
+> 
 > Java Script
+> 
 > AWS
+> 
 > Node.js
+> 
 > Python
+> 
 > C, C++, C#
+> 
 > MySQL
