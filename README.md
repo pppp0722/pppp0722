@@ -1,16 +1,16 @@
-### Hi there 👋
+### 안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다. 👋
+#### Java를 주로 사용하며, Kotlin을 공부하고 있습니다.
+#
+### 주로 사용하는
+> Android
+> Java
+> Kotlin
 
-<!--
-**pppp0722/pppp0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 사용해본 경험이 있는
+> React-Native
+> Java Script
+> AWS
+> Node.js
+> Python
+> C, C++, C#
+> MySQL
