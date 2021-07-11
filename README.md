@@ -1,27 +1,34 @@
-### <a href="https://developer.android.com/studio?gclid=EAIaIQobChMIvNzrvqbb8QIVTFRgCh0aSAv_EAAYASAAEgKREfD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다. <a href="https://developer.android.com/studio?gclid=EAIaIQobChMIvNzrvqbb8QIVTFRgCh0aSAv_EAAYASAAEgKREfD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+
+### 안녕하세요, Android Developer를 꿈꾸고 있는 이일환 입니다.
 #### Java를 주로 사용하며, Kotlin을 공부하고 있습니다.
 #
 ### :ballot_box_with_check: 주로 사용하는
-> Android
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 > 
-> Java
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 > 
-> Kotlin
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 
 ### :ballot_box_with_check: 사용해본 경험이 있는
-> React-Native
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 > 
-> Java Script
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Java_Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 > 
-> AWS
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 > 
-> Node.js
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 > 
-> Python
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 > 
-> C, C++, C#
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=
+C%2B%2B
+&logoColor=white"/></a> <a href="" target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=
+Csharp
+&logoColor=white"/></a>
 > 
-> MySQL
+> <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=
+MySQL
+&logoColor=white"/></a>
 #
 <a href="https://blog.naver.com/poj0722" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="mailto:poj0722@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/>
