@@ -1,6 +1,7 @@
 ## About
-### 안녕하세요!😃 성장하고 있는 백엔드 개발자 이일환 입니다.
-### <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>을 사용합니다.
+### 반갑습니다~!😃 주니어 백엔드 개발자 이일환 입니다.
+### <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 을 다루고 있습니다.
+### 새로운 지식과 기술을 탐구하며 성장하는 것을 즐깁니다.
 
 <br/>
 
@@ -11,4 +12,4 @@
 <br/>
 
 ## Contact
-- <a href="mailto:dev_ilhwanee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a> (dev_ilhwanee@naver.com)
+- <a href="mailto:dev_ilhwanee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a>
