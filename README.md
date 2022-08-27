@@ -11,4 +11,4 @@
 <br/>
 
 ## Contact
-- <a href="mailto:dev_ilhwanee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a> dev_ilhwanee@naver.com
+- dev_ilhwanee@naver.com <a href="mailto:dev_ilhwanee@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Gmail&logoColor=white"/></a>
