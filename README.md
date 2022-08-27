@@ -1,5 +1,5 @@
 ## About
-### 반갑습니다~!😃 주니어 백엔드 개발자 이일환 입니다.
+### 반갑습니다~!😃 신입 백엔드 개발자 이일환 입니다.
 ### <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 을 다루고 있습니다.
 ### 새로운 지식과 기술을 탐구하며 성장하는 것을 즐깁니다.
 
