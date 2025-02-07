@@ -1,1 +1,3 @@
-Currently working as a Backend Developer at Kakao Corp.
+### Hi there! 👋
+
+Currently working as a Backend Developer.
